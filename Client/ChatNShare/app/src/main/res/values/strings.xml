@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!--**
+    * CSE651 - Mobile Application Programming
+    * Final Project - ChatNShare
+    * File: strings.xml
+    * Modified by Nikhita Chandra/Nirav Gandhi/Sangeeta Gill on 15-Apr-15.
+    */-->
+
+<resources>
+
+    <string name="app_name">ChatNShare</string>
+    <string name="location">Send Location</string>
+    <string name="file">File Transfer</string>
+    <string name="delete">Clear Conversation</string>
+    <string name="title_activity_location">Google Map</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="group">Enter Group Chat</string>
+    <string name="username">Enter User Name</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="title_activity_chat_location">chatLocation</string>
+    <string name="title_activity_location_chat_share">Map</string>
+
+</resources>

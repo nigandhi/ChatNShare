@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--**
+* CSE651 - Mobile Application Programming
+* Final Project - ChatNShare
+* File: chatnshare_menu.xml
+* Modified by Nikhita Chandra/Nirav Gandhi/Sangeeta Gill on 15-Apr-15.
+*/-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/location"
+        android:title="@string/location"
+        />
+    <item android:id="@+id/file"
+        android:title="@string/file"
+        />
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"
+        />
+
+</menu>

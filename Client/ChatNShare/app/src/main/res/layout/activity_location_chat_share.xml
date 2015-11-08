@@ -1,0 +1,11 @@
+<!--**
+* CSE651 - Mobile Application Programming
+* Final Project - ChatNShare
+* File: activity_location_chat_share.xml
+* Created by Nikhita Chandra/Nirav Gandhi/Sangeeta Gill on 15-Apr-15.
+*/-->
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/map"
+    tools:context="syr.edu.chatnshare.ChatNShareLocation"
+    android:name="com.google.android.gms.maps.SupportMapFragment" />
